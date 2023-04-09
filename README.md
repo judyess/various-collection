@@ -1,2 +1,1 @@
-
-A collection of past assignments to refer to.
+A collection of useful code that I find myself referring back to often.
