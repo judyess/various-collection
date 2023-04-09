@@ -1,2 +1,2 @@
-# notable-class-assignments
-A collection of various assignments. Most Java files are just a portion of another project.
+
+A collection of past assignments to refer to.
